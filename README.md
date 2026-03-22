@@ -1,4 +1,4 @@
-# 🚀 Frontend II Project - My Recipes
+# 🚀 Frontend II Project - QuestCity
 
 ## 🛠️ Tools Used
 
