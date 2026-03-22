@@ -1,11 +1,11 @@
-##🚀 Frontend II Project - My Recipes
+## 🚀 Frontend II Project - My Recipes
 
-#🛠️ Tools Used
+# 🛠️ Tools Used
 
-#📦 Installation Instructions
+# 📦 Installation Instructions
 
-#🚦 Mandatory Workflow
+# 🚦 Mandatory Workflow
 
-#🔒 Administrator Guide: Protecting the main Branch
+# 🔒 Administrator Guide: Protecting the main Branch
 
-#🚑 Troubleshooting
+# 🚑 Troubleshooting
